@@ -1,6 +1,6 @@
 # License
 
-**Tu aroma cautivador**
+**Tu aroma cautivador, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

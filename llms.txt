@@ -1,4 +1,4 @@
-# Tu aroma cautivador
+# Tu aroma cautivador, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tu aroma cautivador |
+| **Title** | Tu aroma cautivador, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aroma-cautivador/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu aroma cautivador](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-cautivador/) |
+| **Get License** | [Get License For Tu aroma cautivador, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-cautivador/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese aroma tuyo siempre me llama en la oscuridad
+> Nena, tú tienes la llave de toda mi voluntad
+> Yo sé que tú quieres perder el miedo en la ciudad
+> Esta noche no hay reglas, bailamos con libertad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `aece76f8cedc569855b545f7a6f1147c0c76b64a14679c183a53a75f055bf7be` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

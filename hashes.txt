@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aroma cautivador, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Tu aroma cautivador, Vol. 2** (tu-aroma-cautivador-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T11:25:05.123123 | `v1` | `aece76f8cedc569855b545f7a6f1147c0c76b64a14679c183a53a75f055bf7be` | `c44639ba8da10063eea09a4848c3cd0022598603b55141335ac167aab4e7b848` | `2026-06-21_tu-aroma-cautivador-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
